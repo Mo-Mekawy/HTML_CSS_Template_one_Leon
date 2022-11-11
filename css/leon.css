@@ -216,7 +216,7 @@ header > .container {
 /* start of  landing styles */
 .landing {
   background-color: var(--secondary-section-clr);
-  background-image: url("images/landing.webp");
+  background-image: url("../images/landing.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
