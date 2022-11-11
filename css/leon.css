@@ -216,7 +216,7 @@ header > .container {
 /* start of  landing styles */
 .landing {
   background-color: var(--secondary-section-clr);
-  background-image: url("../images/mountain.webp");
+  background-image: url("/images/landing.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -324,7 +324,7 @@ header > .container {
   margin-inline-start: 15%;
 }
 
-.col > img {
+.col img {
   aspect-ratio: 1 / 1;
   object-fit: cover;
   width: 90%;
@@ -373,7 +373,7 @@ header > .container {
   margin-block: 2rem;
 }
 
-.portfolio__card > img {
+.portfolio__card img {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
@@ -413,7 +413,7 @@ header > .container {
   position: relative;
 }
 
-.about__img > img {
+.about__img img {
   width: 225px;
   aspect-ratio: 2 / 3;
   object-fit: cover;
